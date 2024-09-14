@@ -180,6 +180,9 @@ PRODUCT_PACKAGES += \
     btaudio_offload_if \
     sound_trigger.primary.kona \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
+    liba2dpoffload \
+    libaudioparsers \
+    libbatterylistener \
     libFileMux_proprietary \
     libacdb-fts \
     libacdbloader \
@@ -190,10 +193,15 @@ PRODUCT_PACKAGES += \
     libaudcal \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
+    libcomprcapture \
+    libexthwplugin \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
     libfastcrc \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
@@ -210,6 +218,8 @@ PRODUCT_PACKAGES += \
     libqcodec2_platform \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
+    libsndmonitor \
+    libspkrprot \
     libqtigef \
     libsmwrapper \
     libssrec \
